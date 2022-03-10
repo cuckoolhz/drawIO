@@ -1,1 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T08:13:40.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="YeaQWokdMH0AkBo9XTJo" version="17.1.0" type="device"><diagram id="5mL2chMBpMJVrQfOxgIs" name="Page-1">7VpLc5swEP41OqbDG3QEx2mn0850JofGvalGAVpsUVmO7fz6roQwEHBCZxwrM+klXn2S8LKPb1dykDtb7T9yUuVfWUpL5FjpHrnXyHFsy43gQyKHGvFDXAMZL1K9qAVui0fa7NTotkjpprdQMFaKouqDS7Ze06XoYYRztusvu2dl/1srktEBcLsk5RD9XqQir9HICVv8Ey2yvPlmO9DvtyLNYv0mm5ykbNeB3DlyZ5wxUUur/YyW0niNXep9Nydmj4pxuhZTNiw+f0/y4Mfy7ncYfnMCSsStdeVq3cSheWGawvvrIeMiZxlbk3Leogln23VK5VMtGLVrvjBWAWgD+IsKcdDOJFvBAMrFqtSzoDA/3Mn9H/xmuNCPU4PrfW900KNaV6ngSRNoaMO2fEmfee8mlAjPqHhmnXN0FEQ4ZSsK+sA+Tksiioe+HkSHWnZc13oDBO2Qf3COfu4DKbf6m9A8Qsk1igMlzFEEAkYxRgkIPop8FPtDj5YlZIv03C4vBL2tiDLNDhK27xeyqeoUui/20r/a4A+UC7p/3uRDE+kNruvVW3T+26FOh10nmzSUdxKpwc5u1BH7vIuIdyZGvGcy4p3RiI9vVKBDfIOcdHIgRBFG0ayD+AhDViQDH7cetF/Og3OEvd0Pe9cehr3tjMR98FpxHw5Me4/mAcLKvO8zJbyJKREYLQKhEe/sC3HXkReto2DUukYODl0/3XUHi757345HbaMu9UZYrslEyWBWQ2UzFEcj5Aa8h7EE68WREuAv9tHcQwk853pIgDlb/dxuLkN+T2q+5xiu+XjE4I2d3yf1BRMTJTJKfWMN8JsoWcYIbqrfbMuk44KJBAc8BeCR6ZyghHdKfvKeZ4M/W6Zgtr/aFI/FOkNuXJ/4BdjvCnAYKTPDoZtnxbqet6oWr0iaHjeqieapIGXqU6pzgxIshSRG2BvvM+M5Siy1RvHtW6JZPzJMs9EozUah6t5r09Xl7Abh5Azn1XPY8EmfHroT+/RXM6Lt/ie9UTKbwnpmr2vG+jqTbYbu4du+fdGZeaGHt9++t832JtakGqfacSgnMBVbkgrbEtJMma16oHIoVQMhcdUJAmg5bhBHFkSzCsJBJ0HYHjvrQLmeITxkxUsWYa8pBM8UYdu/aAHBJsjmnAQw9arS9o0ywPhlpW5uVHZHKougy41VXsUeijx1erdUS3Qqfjc5qaQoIGDpI5NaJBXlBehNeRf/1oIvhbq60tfeO1Poh9aT0Mem7zhtf5SUIyAQR9pdMsnwauSS/WZo923m+iM2sy5qs8hsV9m/AjnOXaDPmHyWNkszY4fp01xyuij2XPb6ke57/Uj3vGmnU+/fAx2G7c/oaq7zzwju/C8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-10T09:23:54.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="7BSoBWl3RqKGq_1uufaN" version="17.1.0" type="github">
+  <diagram id="5mL2chMBpMJVrQfOxgIs" name="Page-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YJWBh6ZcXk77P26eatS0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YJWBh6ZcXk77P26eatS0-1" target="YJWBh6ZcXk77P26eatS0-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJWBh6ZcXk77P26eatS0-1" value="车辆驶入" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="50" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gKQK4_MgQ9LaWcmly4-Z-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YJWBh6ZcXk77P26eatS0-2" target="YJWBh6ZcXk77P26eatS0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJWBh6ZcXk77P26eatS0-2" value="识别车牌车型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gKQK4_MgQ9LaWcmly4-Z-4" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJWBh6ZcXk77P26eatS0-4" target="gKQK4_MgQ9LaWcmly4-Z-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="546" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gKQK4_MgQ9LaWcmly4-Z-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJWBh6ZcXk77P26eatS0-4" target="YJWBh6ZcXk77P26eatS0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJWBh6ZcXk77P26eatS0-4" value="是否在车型白名单中" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YJWBh6ZcXk77P26eatS0-11" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="YJWBh6ZcXk77P26eatS0-6" target="YJWBh6ZcXk77P26eatS0-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKQK4_MgQ9LaWcmly4-Z-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJWBh6ZcXk77P26eatS0-6" target="YJWBh6ZcXk77P26eatS0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YJWBh6ZcXk77P26eatS0-6" value="是否存在&lt;br style=&quot;box-sizing: content-box ; margin: 0px ; padding: 0px&quot;&gt;对应车牌记录" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YJWBh6ZcXk77P26eatS0-8" value="准许" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="395" y="646.25" width="70" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gKQK4_MgQ9LaWcmly4-Z-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJWBh6ZcXk77P26eatS0-10" target="YJWBh6ZcXk77P26eatS0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKQK4_MgQ9LaWcmly4-Z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YJWBh6ZcXk77P26eatS0-10" target="YJWBh6ZcXk77P26eatS0-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="760" />
+              <mxPoint x="726" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YJWBh6ZcXk77P26eatS0-10" value="支持车牌？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="208" y="640" width="104" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="YJWBh6ZcXk77P26eatS0-15" value="拒绝" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="676" y="630" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gKQK4_MgQ9LaWcmly4-Z-5" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gKQK4_MgQ9LaWcmly4-Z-2" target="gKQK4_MgQ9LaWcmly4-Z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKQK4_MgQ9LaWcmly4-Z-9" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gKQK4_MgQ9LaWcmly4-Z-2" target="gKQK4_MgQ9LaWcmly4-Z-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKQK4_MgQ9LaWcmly4-Z-2" value="是否在&lt;br&gt;车型库中" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="536" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gKQK4_MgQ9LaWcmly4-Z-11" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gKQK4_MgQ9LaWcmly4-Z-3" target="gKQK4_MgQ9LaWcmly4-Z-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKQK4_MgQ9LaWcmly4-Z-17" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gKQK4_MgQ9LaWcmly4-Z-3" target="YJWBh6ZcXk77P26eatS0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKQK4_MgQ9LaWcmly4-Z-3" value="状态为&lt;br&gt;不支持" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="686" y="465" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gKQK4_MgQ9LaWcmly4-Z-8" value="未知车型" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="516" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gKQK4_MgQ9LaWcmly4-Z-10" value="其他状态&lt;br&gt;测试中？&lt;br&gt;未知？" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="666" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gKQK4_MgQ9LaWcmly4-Z-12" value="思考:&lt;br&gt;匹配近似车型？" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
