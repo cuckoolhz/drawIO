@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T08:20:42.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" version="17.1.0" etag="GiPNgYAZpFW0VBWr27Hc" type="github"><diagram id="ttyFu-ruga8VY3cUSrVA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-10T08:31:33.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="kPHUCPtSgJii2P8DVnBE" version="17.1.0" type="github">
+  <diagram id="ttyFu-ruga8VY3cUSrVA" name="Page-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s234IjDqL4ujX5QFRqPM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s234IjDqL4ujX5QFRqPM-1" target="s234IjDqL4ujX5QFRqPM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s234IjDqL4ujX5QFRqPM-1" value="待审核数据" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="299" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s234IjDqL4ujX5QFRqPM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s234IjDqL4ujX5QFRqPM-2" target="s234IjDqL4ujX5QFRqPM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s234IjDqL4ujX5QFRqPM-2" value="修改数据状态为&lt;br&gt;审核中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s234IjDqL4ujX5QFRqPM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s234IjDqL4ujX5QFRqPM-3" target="s234IjDqL4ujX5QFRqPM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s234IjDqL4ujX5QFRqPM-3" value="修改数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="310" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s234IjDqL4ujX5QFRqPM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s234IjDqL4ujX5QFRqPM-4" target="s234IjDqL4ujX5QFRqPM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s234IjDqL4ujX5QFRqPM-4" value="验证中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s234IjDqL4ujX5QFRqPM-13" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s234IjDqL4ujX5QFRqPM-5" target="s234IjDqL4ujX5QFRqPM-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s234IjDqL4ujX5QFRqPM-14" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s234IjDqL4ujX5QFRqPM-5" target="s234IjDqL4ujX5QFRqPM-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s234IjDqL4ujX5QFRqPM-5" value="验证成功？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s234IjDqL4ujX5QFRqPM-8" value="加入白名单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s234IjDqL4ujX5QFRqPM-15" value="思考：&amp;nbsp;&lt;br&gt;验证过程还需要现场的再次测试？" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="620" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
